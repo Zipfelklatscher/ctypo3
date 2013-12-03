@@ -1,10 +1,10 @@
 #!/bin/bash
-VERSION="1.0.0"
+VERSION="1.0.1"
 
 DEBUG=0
 TYPO3_VERSION=0
 
-SCRIPT_PATH="/usr/local/bin/ctypo3_script"
+SCRIPT_PATH="/usr/local/bin/ctypo3-master"
 . $SCRIPT_PATH/lib/ctypo3_functions.sh
 
 # param 1 - path to typo3 installation
@@ -107,4 +107,3 @@ else
 	echo "ERROR: wrong TYPO3 Version!"
 	echo "-------------------------------------------------------"
 fi
-

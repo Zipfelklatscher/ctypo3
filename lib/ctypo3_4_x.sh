@@ -14,7 +14,7 @@ while [ $choice != 10 ]; do
 	echo "What do you wanna do?"
 	
 	echo "[1] Clear mysql cache tabels"
-	echo "[2] Clear sys_log & sys_history table"
+	echo "[2] Clear sys_log & sys_history tables"
 	echo "[3] Clear typo3conf temp files"
 	echo "[4] Clear temp images"
 	echo "[5] Clear typo3temp temp files"
