@@ -1,5 +1,3 @@
-By [Jaap Dierking] jaapen.com
-
 ## Description
 **ctypo3** is a bash script to cleanup the TYPO3 CMS (temp,cache and logs) project files and mysql data. I has been tested with TYPO3 version 4.5.x and 6.x.
 
